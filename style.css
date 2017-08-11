@@ -1,0 +1,7 @@
+.rotate{
+transform: rotate(90deg)
+}
+img{
+  height: 300px;
+  width: 200px;
+}
